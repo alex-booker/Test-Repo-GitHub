@@ -94,7 +94,4 @@ console.log(adminUser); // Mariana
 console.log(regularUser); // Booker
 
 }); 
-
-
-// This is a test, due to a new brnch
-// Testing
+// deleting below comments
